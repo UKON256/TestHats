@@ -4,8 +4,21 @@
       "Name": "Normal",
       "Author": "Seono",
       "Adaptive": "true",
+      "Bounce": "true",
       "Main": {
-        "Path": "通常ハット/testhat.png"
+        "Path": "通常ハット\\testhat.png"
+      },
+      "FlippedMain": {
+        "Path": "通所ハット\\testhat_flip.png"
+      },
+      "Back": {
+        "Path": "通所ハット\\testhat_back.png"
+      },
+      "FlippedBack": {
+        "Path": "通常ハット\\testhat_flip_back.png"
+      },
+      "Climb": {
+        "Path": "通常ハット\\testhat_climb.png"
       }
     },
     {
@@ -13,7 +26,19 @@
       "Author": "Seono",
       "Adaptive": "true",
       "Main": {
-        "Path": "ビッグサイズハット/testhatBig.png"
+        "Path": "ビッグサイズハット\\testhatBig.png"
+      },
+      "FlippedMain": {
+        "Path": "ビッグサイズハット\\testhatBig_flip.png"
+      },
+      "Back": {
+        "Path": "ビッグサイズハット\\testhatBig_back.png"
+      },
+      "FlippedBack": {
+        "Path": "ビッグサイズハット\\testhatBig_flip_back.png"
+      },
+      "Climb": {
+        "Path": "ビッグサイズハット\\testhatBig_climb.png"
       }
     }
   ]
