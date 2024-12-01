@@ -9,10 +9,10 @@
         "Path": "通常ハット\\testhat.png"
       },
       "FlippedMain": {
-        "Path": "通所ハット\\testhat_flip.png"
+        "Path": "通常ハット\\testhat_flip.png"
       },
       "Back": {
-        "Path": "通所ハット\\testhat_back.png"
+        "Path": "通常ハット\\testhat_back.png"
       },
       "FlippedBack": {
         "Path": "通常ハット\\testhat_flip_back.png"
