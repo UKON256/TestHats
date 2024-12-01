@@ -1,11 +1,19 @@
 {
   "hats": [
     {
-      "Name": "Test",
+      "Name": "Normal",
       "Author": "Seono",
       "Adaptive": "true",
       "Main": {
         "Path": "通常ハット/testhat.png"
+      }
+    },
+    {
+      "Name": "BigSize",
+      "Author": "Seono",
+      "Adaptive": "true",
+      "Main": {
+        "Path": "ビッグサイズハット/testhatBig.png"
       }
     }
   ]
